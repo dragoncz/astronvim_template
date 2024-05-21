@@ -10,7 +10,6 @@ return {
 
   -- Editing
   { import = "astrocommunity/editing-support/vim-move" },
-  { import = "astrocommunity/editing-support/rainbow-delimiters-nvim" },
   -- Motion
   { import = "astrocommunity/motion/vim-matchup" },
   { import = "astrocommunity/motion/nvim-surround" },
@@ -22,5 +21,6 @@ return {
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.completion.codeium-vim" },
   -- Pack
+  { import = "astrocommunity.pack.rainbow-delimiter-indent-blankline" },
   { import = "astrocommunity.pack.typescript" },
 }
