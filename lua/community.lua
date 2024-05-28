@@ -17,6 +17,9 @@ return {
   { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.syntax.vim-easy-align" },
 
+  -- Recipes
+  { import = "astrocommunity.recipes.heirline-vscode-winbar" },
+
   -- Pack
   { import = "astrocommunity.pack.rainbow-delimiter-indent-blankline" },
   { import = "astrocommunity.pack.typescript" },
