@@ -8,7 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
 
-  { import = "astrocommunity.colorscheme.everforest" },
+  { import = "astrocommunity.color.transparent-nvim" },
   { import = "astrocommunity.completion.codeium-vim" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.editing-support.vim-move" },
