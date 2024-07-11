@@ -18,6 +18,7 @@ return {
   { import = "astrocommunity.syntax.vim-easy-align" },
 
   -- Recipes
+  { import = "astrocommunity.recipes.auto-session-restore" },
   { import = "astrocommunity.recipes.heirline-vscode-winbar" },
 
   -- Pack
