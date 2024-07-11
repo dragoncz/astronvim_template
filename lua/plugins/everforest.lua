@@ -5,9 +5,9 @@ return {
   config = function()
     -- Optionally configure and load the colorscheme
     -- directly inside the plugin declaration.
-    vim.g.everforest_enable_italic = true
+    vim.g.everforest_enable_italic = 1
     vim.g.everforest_background = "soft"
-    vim.g.everforest_diagnostic_text_highlight = 1
-    vim.g.everforest_transparent_background = 1
+    vim.g.everforest_diagnostic_text_highlight = 0
+    vim.g.everforest_transparent_background = 2
   end,
 }
